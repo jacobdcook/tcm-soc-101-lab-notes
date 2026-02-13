@@ -1,0 +1,35 @@
+# Media and large files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.iso
+*.ova
+*.vmdk
+
+# Binaries and builds
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Local / IDE
+.env
+.env.local
+*.local
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and temp
+*.log
+logs/
+tmp/
+temp/
+.cache/
